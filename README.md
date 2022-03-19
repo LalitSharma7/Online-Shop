@@ -1,3 +1,3 @@
 # Online-Shop
 
-A full Stack MERN App.
+A full Stack React App.
